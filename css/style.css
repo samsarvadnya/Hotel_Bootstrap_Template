@@ -1,0 +1,27 @@
+header{
+    background-color: #4B5C7E;
+}
+/* header end */
+.banner{
+    background-image: url(../images/background/index.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+.main_title{   
+    padding-top: 20vh;
+}
+/* banner end */
+.feature_area{
+    margin-top: -180px;
+    background-color: #2E3F60; 
+}
+/* intro end */
+.deluxe_room{
+    background-color: #2E3F60;
+}
+/*  */
+footer{
+    background-color: #4B5C7E;
+}
